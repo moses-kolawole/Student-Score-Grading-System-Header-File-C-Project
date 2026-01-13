@@ -58,7 +58,7 @@ Standard libraries and custom header files are included
 
 [Click Here for other images](images/)
 
-![Click Here for the Demonstration Video](https://youtu.be/iMNPL2zLjAo)
+[Click Here for the Demonstration Video](https://youtu.be/iMNPL2zLjAo)
 
 ## Embedded Systems Connection
 This system can be useful in embedded projects that handle student data or scores on a display. For example, it could be used in school attendance systems, scoreboards, or other systems that need structured data handling.
