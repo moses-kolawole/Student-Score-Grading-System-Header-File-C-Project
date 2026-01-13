@@ -54,11 +54,11 @@ Standard libraries and custom header files are included
 - How to organize a bigger C project for readability and reusability
 
 ## Images / Demo Video
-![Click Here for the images](images/Student_Grade_Manager_project_on_12th_January_2025 photo1.png)
+![Click Here for the images](images/Student_Grade_Manager_project_on_12th_January_2025_photo1.png)
 
 [Click Here for other images](images/)
 
-[Click Here for the Demonstration Video](video/https://youtu.be/iMNPL2zLjAo)
+[Click Here for the Demonstration Video](vhttps://youtu.be/iMNPL2zLjAo)
 
 ## Embedded Systems Connection
 This system can be useful in embedded projects that handle student data or scores on a display. For example, it could be used in school attendance systems, scoreboards, or other systems that need structured data handling.
