@@ -18,10 +18,15 @@ I used header files to separate the code into different parts: one for student s
 
 ## Project Structure
 
- - main.c → handles user input, menu, and program flow
- - student.h / student.c → contains the student struct and input function
- - calc.h / calc.c → contains average calculation, result display, and full result functions
- - score_grader.h / score_grader.c → contains the grader function
+ - main.c → handles user input, menu, and program flow [Click Here for the Link](Source_Code/main.c)
+   
+ - student.h [Click for code](Header_File/student.h) / student.c [Click for code](Source_Code/student.c) → contains the student struct and input function
+   
+ - calc.h  [Click for code](Header_File/calc.h)/ calc.c [Click For Code](Source_Code/calc.c) → contains average calculation, result display, and full result functions
+
+  
+ - score_grader.h  [Click for code](Header_File/score_grader.h)  / score_grader.c [Click For Code](Source_Code/score_grader.c) → contains the grader function
+
 
 ## Why Header Files
 I used header files so I can split the project into smaller, reusable files. This makes the code cleaner and easier to maintain. 
@@ -49,11 +54,11 @@ Standard libraries and custom header files are included
 - How to organize a bigger C project for readability and reusability
 
 ## Images / Demo Video
-![Click Here for the images](images/)
+![Click Here for the images](images/Student_Grade_Manager_project_on_12th_January_2025 photo1.png)
 
 [Click Here for other images](images/)
 
-[Click Here for the Demonstration Video](video/)
+[Click Here for the Demonstration Video](video/https://youtu.be/iMNPL2zLjAo)
 
-Embedded Systems Connection
+## Embedded Systems Connection
 This system can be useful in embedded projects that handle student data or scores on a display. For example, it could be used in school attendance systems, scoreboards, or other systems that need structured data handling.
