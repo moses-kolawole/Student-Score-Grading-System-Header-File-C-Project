@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1768248588 source:c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\calc.c
+	"calc.h"
+	"student.h"
+	"score_grader.h"
+	<string.h>
+
+1768245926 source:c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\student.c
+	"student.h"
+	<string.h>
+	<stdio.h>
+
+1768243574 c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\student.h
+
+1768249399 source:c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\main.c
+	<stdio.h>
+	"student.h"
+	<string.h>
+	"calc.h"
+	"score_grader.h"
+
+1768249071 c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\calc.h
+	"student.h"
+
+1768248605 c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\score_grader.h
+	"calc.h"
+
+1768249144 source:c:\users\moses\documents\c documents and project\student_grade_manager_project_on_12th_january_2025\score_grader.c
+	"score_grader.h"
+	<string.h>
+
